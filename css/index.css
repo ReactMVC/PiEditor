@@ -1,0 +1,13 @@
+#header-text .bg {
+    background-image: url('../images/1.png');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    opacity:0.25;
+}#action-text-btn--0 .bg {
+    background-image: url('../images/1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity:0.1;
+}
